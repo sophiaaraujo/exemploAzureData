@@ -1,0 +1,15 @@
+{
+	"name": "MySqlTableLocItemLocacao",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MySqlCarloca",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "MySqlTable",
+		"schema": [],
+		"typeProperties": {
+			"tableName": "`loc_item_locacao`"
+		}
+	}
+}
