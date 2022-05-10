@@ -45,7 +45,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "Parquet1",
+						"referenceName": "ParquetIngestion",
 						"type": "DatasetReference",
 						"parameters": {
 							"container": "ingestion",
