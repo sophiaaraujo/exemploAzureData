@@ -1,5 +1,5 @@
 {
-	"name": "Parquet1",
+	"name": "ParquetIngestion",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "AzureDataLakeStorage1",
